@@ -1,0 +1,12 @@
+1
+hotel
+end
+rio
+500
+198
+2
+hotel2
+end2
+rio2
+400
+250
